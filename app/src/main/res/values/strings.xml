@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabMaps</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- For ID -->
+    <item name="key_list_position" type="id"></item>
+    <string name="title_activity_locate_user">Map</string>
+</resources>
